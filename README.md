@@ -14,3 +14,4 @@
 
 ## Introduction
    - A Farm Yard example scene of how to use VRTK v4 for rapidly building spatial computing solutions in the Unity software.
+   ![ ](https://github.com/picoxr/VRTK.Tutorials.FarmYard/blob/main/ScreenShots/1.jpeg)
