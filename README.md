@@ -3,7 +3,7 @@
 
 ## SDK Versions:
    
-   - PICO Unity Integration SDK v2.1.1
+   - PICO Unity Integration SDK v212
 
 ## Unity Versions：
 
